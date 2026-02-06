@@ -3,8 +3,6 @@
 Ce projet consiste en la création d’un **dashboard interactif** permettant d’analyser les ventes de produits pharmaceutiques selon différentes dimensions temporelles et commerciales.  
 Il a été réalisé dans le cadre **d'aider une pharmacie** et s’appuie sur **Python, Pandas et Streamlit**.
 
----
-
 ## 🎯 Objectifs du projet
 
 - Visualiser l’évolution du chiffre d’affaires dans le temps  
@@ -14,8 +12,6 @@ Il a été réalisé dans le cadre **d'aider une pharmacie** et s’appuie sur *
   - le pharmacien (gestion des stocks)
   - le responsable commercial
   - le dirigeant
-
----
 
 ## 🧱 Structure des données
 
@@ -28,16 +24,12 @@ Le projet utilise plusieurs fichiers CSV issus d’exports Excel :
 
 Chaque fichier contient les ventes par produit (M01AB, N02BE, N05B, etc.) ainsi qu’une dimension temporelle.
 
----
-
 ## 🛠️ Technologies utilisées
 
 - **Python 3**
 - **Pandas** : traitement et agrégation des données
 - **Streamlit** : création du dashboard interactif
 - **GitHub Codespaces / VS Code**
-
----
 
 ## 📊 Fonctionnalités du dashboard
 
@@ -49,3 +41,5 @@ Chaque fichier contient les ventes par produit (M01AB, N02BE, N05B, etc.) ainsi 
 - Identification des produits les plus vendus
 
 ---
+Auteur
+Gildas SAGBO EDOH
